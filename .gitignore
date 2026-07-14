@@ -30,8 +30,14 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# env files — keep secrets out of the repo.
+# .env.example is the template (committed); everything else is local only.
 .env*
+!.env.example
+
+# project banner screenshots — kept local to keep the repo lean.
+# The site uses the SVG versions (smaller, committed).
+public/banners/*.png
 
 # vercel
 .vercel

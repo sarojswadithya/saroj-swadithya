@@ -1,0 +1,27 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Saroj Swadithya logo">
+  <title>Saroj Swadithya — Stack S monogram</title>
+  <desc>An S formed from five offset horizontal blocks, evoking software assembled from components.</desc>
+
+  <!--
+    STACK S — by Saroj Swadithya (2026)
+    Five horizontal blocks arranged along the spine of an S.
+    Each row is offset to imply motion + construction.
+    Block 3 (the keystone) is the lime accent — the "turn" of the S.
+    All other blocks use currentColor so the mark adapts to its context.
+  -->
+
+  <!-- Row 1 — top bar of the S (full width, left-aligned) -->
+  <rect x="40"  y="40"  width="120" height="24" rx="6" fill="currentColor"/>
+
+  <!-- Row 2 — upper curve, offset right (narrower) -->
+  <rect x="136" y="72"  width="64"  height="24" rx="6" fill="currentColor"/>
+
+  <!-- Row 3 — the keystone (middle bar of the S) — LIME accent -->
+  <rect x="40"  y="104" width="120" height="24" rx="6" fill="#c7f24a"/>
+
+  <!-- Row 4 — lower curve, offset left (narrower) -->
+  <rect x="40"  y="136" width="64"  height="24" rx="6" fill="currentColor"/>
+
+  <!-- Row 5 — bottom bar of the S (full width, left-aligned) -->
+  <rect x="40"  y="168" width="120" height="24" rx="6" fill="currentColor"/>
+</svg>

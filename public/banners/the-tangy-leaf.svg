@@ -1,0 +1,23 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="ttl-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1004"/>
+      <stop offset="100%" stop-color="#2a1a08"/>
+    </linearGradient>
+    <radialGradient id="ttl-glow" cx="0.7" cy="0.3" r="0.5">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#ttl-bg)"/>
+  <rect width="1200" height="675" fill="url(#ttl-glow)"/>
+  <!-- leaf shapes -->
+  <path d="M900 120 Q980 200 940 320 Q860 260 900 120Z" fill="#f59e0b" fill-opacity="0.15"/>
+  <path d="M860 200 Q940 280 900 380 Q820 320 860 200Z" fill="#f59e0b" fill-opacity="0.1"/>
+  <text x="80" y="330" font-family="serif" font-size="80" font-weight="bold" fill="#f59e0b" opacity="0.95">The Tangy</text>
+  <text x="80" y="420" font-family="serif" font-size="80" font-weight="bold" fill="#ffffff" opacity="0.9">Leaf</text>
+  <text x="82" y="465" font-family="monospace" font-size="16" fill="#f59e0b" opacity="0.7">// MERN · RAZORPAY · AI CHATBOT</text>
+  <circle cx="160" cy="540" r="6" fill="#f59e0b" opacity="0.8"/>
+  <circle cx="190" cy="540" r="6" fill="#f59e0b" opacity="0.5"/>
+  <circle cx="220" cy="540" r="6" fill="#f59e0b" opacity="0.25"/>
+</svg>
